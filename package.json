@@ -1,6 +1,9 @@
 {
   "name": "mdev1012-f2022-week5b",
   "version": "0.1.0",
+  "repository": "https://github.com/LyubovKorovina/myPortfolio.git",
+  "author": "Lyubov Korovina <lukorovina@gmail.com>",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -39,9 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "main": "index.js",
-  "repository": "https://github.com/LyubovKorovina/myPortfolio.git",
-  "author": "Lyubov Korovina <lukorovina@gmail.com>",
-  "license": "MIT"
+  }
 }
